@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎓 Sochow university
 - nobody
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lishuaike&hide=issues&show_icons=true" alt="logo" height="160" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lishuaike&hide=issues&show_icons=true" alt="logo" height="160" />
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=Lishuaike&hide=issues&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
