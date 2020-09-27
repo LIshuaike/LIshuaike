@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Shuaike Li's github stats](https://github-readme-stats.vercel.app/api?username=Lishuaike&hide=issues&show_icons=true)](https://github.com/LIshuaike)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lishuaike&layout=compact)]
-(https://github.com/Lishuaike)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lishuaike&layout=compact)](https://github.com/Lishuaike)
