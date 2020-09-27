@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm LIshuaike
+- 🎓 Sochow university
+- nobody
+
 <img src="https://github-readme-stats.vercel.app/api?username=Lishuaike&hide=issues&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 <img src="https://github-profile-trophy.vercel.app/?username=Lishuaike&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
